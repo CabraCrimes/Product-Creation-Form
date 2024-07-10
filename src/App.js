@@ -1,4 +1,3 @@
-import './App.css';
 import ProductForm from './components/form/productForm';
 
 function App() {
